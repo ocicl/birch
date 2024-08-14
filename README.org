@@ -2,9 +2,8 @@
 
 A Simple Common Lisp IRC client library.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/jorams/birch.git   |
-| commit  | 50f1313  |
-| systems | birch |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------|
+| source  | git:https://github.com/jorams/birch.git |
+| commit  | 30cd242                                 |
+| systems | birch                                   |
+|---------+-----------------------------------------|
